@@ -1,9 +1,9 @@
 {
-    "name": "madrugao/raniereeventos",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
             "name": "Jordan Brito",
-            "email": "jordan_gab@hotmail.com"
+            "email": "jordan_gab@hotmailcom"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Raniere\\": "vendor\\raniere\\php-classes\\src"
+            "Ranieri": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }

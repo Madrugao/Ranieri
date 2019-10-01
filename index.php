@@ -1,17 +1,19 @@
 <?php 
 
-require_once("vendor/autoload.php");
+echo "OK";
 
-$app = new \Slim\Slim();
+// require_once("vendor/autoload.php");
 
-$app->config('debug', true);
+// $app = new \Slim\Slim();
 
-$app->get('/', function() {
+// $app->config('debug', true);
+
+// $app->get('/', function() {
     
-	echo "OK";
+// 	echo "OK";
 
-});
+// });
 
-$app->run();
+// $app->run();
 
  ?>
